@@ -4,13 +4,13 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 9, 2017
 
 ### Student Name:  
-(First and Last Name)
+Sarah Voelker
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This project aimed to help us with a better understanding of how javascript can be used on webpages
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
